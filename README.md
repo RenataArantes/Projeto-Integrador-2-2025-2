@@ -11,7 +11,7 @@ Repositório da Prof.a Renata Arantes para organização dos repositórios dos a
 - [Time 2 8] https://github.com/maxthba/PI_II_ES_TIME8
 - [Time 2 9] https://github.com/rafaelmvalente/PI_II_ES_TIME-9
 - [Time 2 10] https://github.com/caiquenaimi/PI_II_ES_TIME-10
-- [Time 2 11] 
+- [Time 2 11] https://github.com/lucaxaviers/PI_II_ES_TIME_11
 - [Time 2 12] 
 - [Time 2 13] https://github.com/Luck4506/PI_II_ES_TIME-13
 - [Time 2 14] https://github.com/noemikayama/ES-PI2-2025-T2-G14
