@@ -23,6 +23,6 @@ Repositório da Prof.a Renata Arantes para organização dos repositórios dos a
 - [Time 2 20] 
 - [Time 2 21] https://github.com/viniciuspanutti/ES-PI2-2025-T2-G21
 - [Time 2 22] 
-- [Time 2 23]
+- [Time 2 23] https://github.com/gustavo-zorzo/PI-4-GRUPO-24
 - [Time 2 24] 
 
