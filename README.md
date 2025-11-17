@@ -13,7 +13,7 @@ Repositório da Prof.a Renata Arantes para organização dos repositórios dos a
 - [Time 2 10] https://github.com/caiquenaimi/PI_II_ES_TIME-10
 - [Time 2 11] 
 - [Time 2 12] 
-- [Time 2 13] 
+- [Time 2 13] https://github.com/Luck4506/PI_II_ES_TIME-13
 - [Time 2 14] https://github.com/noemikayama/ES-PI2-2025-T2-G14
 - [Time 2 15] https://github.com/Jp-mainieri/PI_II_ES_TIME_15
 - [Time 2 16] https://github.com/lightblueyz/Projeto_Integrador_II
