@@ -7,7 +7,7 @@ Repositório da Prof.a Renata Arantes para organização dos repositórios dos a
 - [Time 2 4] 
 - [Time 2 5] 
 - [Time 2 6] 
-- [Time 2 7] 
+- [Time 2 7] https://github.com/MiguelFMont/ES_PI2_2025_T1_G07
 - [Time 2 8] 
 - [Time 2 9] https://github.com/rafaelmvalente/PI_II_ES_TIME-9
 - [Time 2 10] 
