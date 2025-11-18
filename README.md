@@ -2,7 +2,7 @@
 Repositório da Prof.a Renata Arantes para organização dos repositórios dos alunos do Projeto Integrador 2 - 2025
 
 - [Time 2 1] https://github.com/AllanMatiass/PI-II-ES-TIME-1
-- [Time 2 2] 
+- [Time 2 2] https://github.com/Rafalmeida05/PI_II_ES_TIME_2
 - [Time 2 3] https://github.com/SamuelCampovilla/PI_II_ES_TIME_3
 - [Time 2 4] 
 - [Time 2 5] 
