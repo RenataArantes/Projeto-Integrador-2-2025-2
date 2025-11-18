@@ -6,7 +6,7 @@ Repositório da Prof.a Renata Arantes para organização dos repositórios dos a
 - [Time 2 3] https://github.com/SamuelCampovilla/PI_II_ES_TIME_3
 - [Time 2 4] https://github.com/rafaoiio/ES-PI2-2025-T101-G04
 - [Time 2 5] https://github.com/Cadzss/PL_II_ES_TIME_5
-- [Time 2 6] 
+- [Time 2 6] https://github.com/GabrielPozeti/PI_II_ES_TIME-6
 - [Time 2 7] https://github.com/MiguelFMont/ES_PI2_2025_T1_G07
 - [Time 2 8] https://github.com/maxthba/PI_II_ES_TIME8
 - [Time 2 9] https://github.com/rafaelmvalente/PI_II_ES_TIME-9
