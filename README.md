@@ -23,6 +23,6 @@ Repositório da Prof.a Renata Arantes para organização dos repositórios dos a
 - [Time 2 20] https://github.com/camilarevvth/PI_II_ES_TIME-20
 - [Time 2 21] https://github.com/viniciuspanutti/ES-PI2-2025-T2-G21
 - [Time 2 22] https://github.com/matheusrosini/ES-PI2-2025-T2-G22
-- [Time 2 23] 
+- [Time 2 23] https://github.com/Leonunciaroni/PI_II_ES_TIME-23
 - [Time 2 24] https://github.com/GabrielHP2/PI_II_ES_TIME-24
 
